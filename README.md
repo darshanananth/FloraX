@@ -1,1 +1,1 @@
-# floraX-backend
+FloraX is an advanced AI-driven botanical identification and plant management app, designed for students, enthusiasts, and farmers. With its precise plant identification, cultivation guidance, and disease diagnosis features, FloraX revolutionizes plant care by offering unparalleled accuracy and efficiency. Whether you're managing plants in educational, recreational, or agricultural settings, FloraX empowers you with expert-level insights.
